@@ -1,3 +1,8 @@
-# Programeursvaardigheden
+# Markdown leren.
 
-### <span style="color:red">Y</span> <span style="color:blue">E</span> <span style="color:yellow">S</span>
+### **Bold is wel mooi**
+### *Maar italic ook*
+### Of wat dacht je er van om ze te :sparkles: _**combineren**_
+ 
+
+
