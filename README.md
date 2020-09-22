@@ -3,8 +3,9 @@
 ### **Bold** is wel mooi
 ### Maar *italic* ook
 ### Of wat dacht je er van om ze te 
-###  	__| :sparkles: *combineren* :sparkles: |__
+###  	**| :sparkles: *combineren* :sparkles: |**
 
+---
 
 ### Ook is het leuk
 #### om te kijken
